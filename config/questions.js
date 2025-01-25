@@ -178,6 +178,74 @@ export const questionAnswers = [
   {
     question: "Which property in Worli is best for a luxury lifestyle under ₹20 crore?",
     answer: "A 5 BHK in Worli, priced at ₹19.5 crore, with 3500 sq. ft., a sea-facing view, and proximity to business hubs (1 km), is perfect.",
+  },
+  {
+    question: "What is the most affordable property near Colaba for ₹90 lakh?",
+    answer: "A 1 BHK in Colaba, priced at ₹85 lakh, with 550 sq. ft., located 1 km from the metro and 1.2 km from the Gateway of India, is affordable.",
+  },
+  {
+    question: "Which property is best for a large family in Chembur with a budget of ₹3 crore?",
+    answer: "A 4 BHK in Chembur, priced at ₹2.95 crore, with 1600 sq. ft., proximity to schools (1 km) and parks (0.5 km), is ideal for large families.",
+  },
+  {
+    question: "What is the best luxury apartment near Lower Parel for ₹18 crore?",
+    answer: "A 3 BHK in Lower Parel, priced at ₹17.8 crore, with 2500 sq. ft., a sea-facing view, and proximity to business hubs (1 km), is perfect for a luxury lifestyle.",
+  },
+  {
+    question: "Which property in Kalyan is ideal for a first-time home buyer under ₹70 lakh?",
+    answer: "A 1 BHK in Kalyan, priced at ₹65 lakh, with 600 sq. ft., located near a station (1 km) and markets (1.5 km), is ideal for first-time buyers.",
+  },
+  {
+    question: "What is the recommended property in Thane for a family with ₹2 crore budget?",
+    answer: "A 3 BHK in Thane, priced at ₹1.95 crore, with 1200 sq. ft., located near schools (1 km) and parks (1 km), is suitable for families.",
+  },
+  {
+    question: "Which property is perfect for a bachelor in Malad with ₹1 crore budget?",
+    answer: "A 1 BHK in Malad, priced at ₹95 lakh, with 550 sq. ft., proximity to metro stations (1 km) and shopping centers (1.2 km), is perfect for bachelors.",
+  },
+  {
+    question: "What is the best option for a 2 BHK in Andheri East under ₹2 crore?",
+    answer: "A 2 BHK in Andheri East, priced at ₹1.9 crore, with 950 sq. ft., located near metro stations (1 km) and schools (1.5 km), is ideal.",
+  },
+  {
+    question: "Which property in Worli is suitable for investment under ₹12 crore?",
+    answer: "A 2.5 BHK in Worli, priced at ₹11.8 crore, with 2000 sq. ft., located near upcoming metro lines (1.5 km) and business districts (2 km), is an excellent investment.",
+  },
+  {
+    question: "What is the best property in Navi Mumbai for ₹1.8 crore?",
+    answer: "A 2 BHK in Navi Mumbai, priced at ₹1.75 crore, with 1100 sq. ft., located 1.2 km from the metro and 1.5 km from parks, is ideal.",
+  },
+  {
+    question: "Which is the best villa in Lonavala under ₹10 crore?",
+    answer: "A luxury villa in Lonavala, priced at ₹9.5 crore, with 3500 sq. ft., 4 bedrooms, a private garden, and proximity to the hills (1 km), is ideal.",
+  },
+  {
+    question: "What is the most affordable 3 BHK in Dadar under ₹3 crore?",
+    answer: "A 3 BHK in Dadar, priced at ₹2.95 crore, with 1300 sq. ft., located near schools (1 km) and markets (0.8 km), is affordable.",
+  },
+  {
+    question: "What is the best option for a weekend home in Karjat under ₹6 crore?",
+    answer: "A weekend villa in Karjat, priced at ₹5.9 crore, with 4500 sq. ft., 5 bedrooms, and proximity to scenic views (2 km), is the best choice.",
+  },
+  {
+    question: "Which property is ideal for a retired couple in Juhu under ₹5 crore?",
+    answer: "A 2 BHK in Juhu, priced at ₹4.8 crore, with 1100 sq. ft., proximity to a beach (1 km) and parks (0.5 km), is ideal for retired couples.",
+  },
+  {
+    question: "What is the best property for a single professional near Andheri West for ₹2 crore?",
+    answer: "A 1 BHK in Andheri West, priced at ₹1.95 crore, with 700 sq. ft., proximity to offices (1 km) and metro stations (0.8 km), is ideal for single professionals.",
+  },
+  {
+    question: "Which property in Khar is best for a family with ₹3 crore budget?",
+    answer: "A 3 BHK in Khar, priced at ₹2.9 crore, with 1400 sq. ft., located near schools (1 km) and hospitals (1.2 km), is best for families.",
+  },
+  {
+    question: "What is the most affordable property in Bandra under ₹2 crore?",
+    answer: "A 1 BHK in Bandra, priced at ₹1.85 crore, with 650 sq. ft., located 1.5 km from the metro and 1 km from shopping areas, is affordable.",
+  },
+  {
+    question: "What is the best property for ₹5 crore near Powai?",
+    answer: "A 3 BHK in Powai, priced at ₹4.85 crore, with 1600 sq. ft., proximity to international schools (1 km) and parks (0.8 km), is perfect for families.",
   }
 ]
 
