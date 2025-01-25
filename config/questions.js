@@ -110,6 +110,74 @@ export const questionAnswers = [
   {
     "question": "Which is the best luxury property in Worli under ₹15 crore?",
     "answer": "A 3 BHK in Worli, priced at ₹14.8 crore, with 1800 sq. ft., a sea-facing view, and proximity to business hubs (1 km), is ideal."
+  },
+   {
+    question: "Which property is ideal for investment in Kandivali under ₹1.5 crore?",
+    answer: "A 1.5 BHK in Kandivali, priced at ₹1.4 crore, with 750 sq. ft., located 1 km from the metro and 1.2 km from schools, is suitable.",
+  },
+  {
+    question: "What is the recommended property in Santacruz for ₹3 crore?",
+    answer: "A 3 BHK in Santacruz, priced at ₹2.95 crore, with 1350 sq. ft., proximity to schools (1 km) and parks (0.8 km), is ideal.",
+  },
+  {
+    question: "Which is the most affordable property in Mira Road under ₹1 crore?",
+    answer: "A 1 BHK in Mira Road, priced at ₹95 lakh, with 600 sq. ft., located 1.2 km from a metro station and 1 km from markets, is affordable.",
+  },
+  {
+    question: "What is the best property near Pune City Center for ₹2 crore?",
+    answer: "A 2 BHK near Pune City Center, priced at ₹1.95 crore, with 1100 sq. ft., located 2 km from the metro and 1 km from IT hubs, is recommended.",
+  },
+  {
+    question: "Which property is ideal for a family of 5 in Kandivali under ₹1.8 crore?",
+    answer: "A 2.5 BHK in Kandivali, priced at ₹1.75 crore, with 1050 sq. ft., proximity to schools (1.5 km) and hospitals (1 km), is suitable.",
+  },
+  {
+    question: "What is the best luxury villa in Lonavala under ₹8 crore?",
+    answer: "A luxury villa in Lonavala, priced at ₹7.8 crore, with 4500 sq. ft., 4 bedrooms, a private pool, and proximity to tourist spots (2 km), is ideal.",
+  },
+  {
+    question: "Which property is suitable for a couple in Borivali for ₹1 crore?",
+    answer: "A 1 BHK in Borivali, priced at ₹98 lakh, with 700 sq. ft., proximity to parks (1 km) and restaurants (0.5 km), is recommended.",
+  },
+  {
+    question: "What is the best option for a 4 BHK in Juhu under ₹10 crore?",
+    answer: "A 4 BHK in Juhu, priced at ₹9.8 crore, with 2500 sq. ft., a sea-facing view, and proximity to premium schools (1 km), is perfect.",
+  },
+  {
+    question: "Which property is recommended in Navi Mumbai for investment under ₹1.5 crore?",
+    answer: "A 2 BHK in Navi Mumbai, priced at ₹1.4 crore, with 1000 sq. ft., located near a proposed metro station (1.2 km) and IT hubs (2 km), is a good investment.",
+  },
+  {
+    question: "What is the most affordable property in Vashi under ₹80 lakh?",
+    answer: "A 1 BHK in Vashi, priced at ₹75 lakh, with 500 sq. ft., located 1 km from the station and 1.5 km from markets, is affordable.",
+  },
+  {
+    question: "Which is the best penthouse in South Mumbai under ₹25 crore?",
+    answer: "A penthouse in South Mumbai, priced at ₹24.8 crore, with 5000 sq. ft., a panoramic sea-facing view, and private elevator access, is the best option.",
+  },
+  {
+    question: "What is the recommended property in Powai for a ₹4 crore budget?",
+    answer: "A 3 BHK in Powai, priced at ₹3.95 crore, with 1800 sq. ft., proximity to malls (1 km) and schools (0.8 km), is ideal.",
+  },
+  {
+    question: "Which property is ideal for a bachelor in Goregaon under ₹1.2 crore?",
+    answer: "A 1 BHK in Goregaon, priced at ₹1.15 crore, with 650 sq. ft., proximity to metro stations (1 km) and business hubs (0.8 km), is suitable.",
+  },
+  {
+    question: "What is the best investment property in Andheri West for ₹2.5 crore?",
+    answer: "A 2 BHK in Andheri West, priced at ₹2.4 crore, with 1100 sq. ft., located 1.5 km from the metro and 1 km from shopping centers, is recommended.",
+  },
+  {
+    question: "Which is the most affordable villa in Alibaug under ₹5 crore?",
+    answer: "A villa in Alibaug, priced at ₹4.8 crore, with 3000 sq. ft., 3 bedrooms, and proximity to the beach (2 km), is affordable.",
+  },
+  {
+    question: "What is the best property for a family in Bandra for ₹8 crore?",
+    answer: "A 3 BHK in Bandra, priced at ₹7.9 crore, with 1500 sq. ft., proximity to international schools (1 km) and hospitals (0.8 km), is ideal.",
+  },
+  {
+    question: "Which property in Worli is best for a luxury lifestyle under ₹20 crore?",
+    answer: "A 5 BHK in Worli, priced at ₹19.5 crore, with 3500 sq. ft., a sea-facing view, and proximity to business hubs (1 km), is perfect.",
   }
 ]
 
